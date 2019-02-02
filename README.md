@@ -34,3 +34,17 @@ This is the code for Brad Traversy's course on CSS and HTML.
 ![The Roles of Web Technologies](docs/img/roles-web.png)
 
 
+### HTML Sandbox
+- Set of files for each lecture.
+- Keep as a resource to go back to if needed.
+- The start and finished zip files are included.
+- HTML without CSS is UGLY!
+
+## Basic HTML
+
+### Tag Syntax
+- Elements surrounded in angle brackets.
+- Usually have a start & end tag.
+- Some tags close themselves (Remnant of XHTML).
+  
+![HTML tag syntax](docs/img/html-syntax.png) 
